@@ -17,3 +17,26 @@ I am 25 years old, graduated from a medical university and now work as a pharmac
 - Benevolence
 - Perseverance
 - Stress resistance
+
+## Skills
+
+- HTML
+- CSS
+- Git/Github
+- VSCode
+
+## Code Examples
+
+
+
+## Education
+
+- Belarusian State Medical University
+- The Rolling Scopes School (JS / FRONT-END. STAGE 0 - in progress)
+
+## Languages
+
+- Russian (nativ speaker)
+- Belarusian (nativ speaker)
+- German (B1)
+- English (A1)
