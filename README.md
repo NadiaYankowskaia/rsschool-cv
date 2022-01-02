@@ -1,1 +1,1 @@
- My cv-markdown: https://nadiayankowskaia.github.io/rsschool-cv/cv
+ My cv: https://nadiayankowskaia.github.io/rsschool-cv/
