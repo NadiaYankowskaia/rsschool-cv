@@ -15,7 +15,7 @@ I am 25 years old, graduated from a medical university and now work as a pharmac
 #### My strengths:
 - Non - conflict
 - Benevolence
-- Perseverance
+- Persistence
 - Stress resistance
 
 ## Skills
@@ -27,7 +27,11 @@ I am 25 years old, graduated from a medical university and now work as a pharmac
 
 ## Code Examples
 
+function multiply(a, b) {
+  return a + b;
+}
 
+let result = multiply(1, 2);
 
 ## Education
 
