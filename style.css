@@ -1,0 +1,11 @@
+.body {
+    font-family: 'Open Sans', sans-serif;
+}
+.nav-link {
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+}
+.footer-content {
+    margin-left: 8px;
+}
